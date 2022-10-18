@@ -1,0 +1,2 @@
+#To compile use 
+sass scss/style.scss css/style.css
